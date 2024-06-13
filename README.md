@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MaartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tharun Prabhakar
+## Hi there <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FAdbros-jKkqqRlfzajljKVV5p&psig=AOvVaw0oT0iDDmvrh1dCh6eXsjgd&ust=1718380679270000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi51IL52IYDFQAAAAAdAAAAABAE" width="30px">, I am Tharun Prabhakar
 
 <!--
 **Nurath/Nurath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
