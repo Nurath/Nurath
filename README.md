@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/Nurath/Nurath/master/handwaving.html" width="30px">, I am Tharun Prabhakar
+## Hi there <img src="https://raw.githubusercontent.com/Nurath/Nurath/master/wave.gif" width="30px">, I am Tharun Prabhakar
 
 <!--
 **Nurath/Nurath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
